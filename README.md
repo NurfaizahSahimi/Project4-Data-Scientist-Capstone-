@@ -31,7 +31,7 @@ Sklearn           | `pip3 install sklearn`           | Sklearn library contains 
 Seaborn           | `pip3 install seaborn`           | Open-source Python library built on top of matplotlib. It is used for data visualization and exploratory data analysis.
 Matplotlib-inline | `pip3 install matplotlib-inline` | %matplotlib inline is a magic command for IPython that allows you to add plots to the browser interface
 Pandas_profiling  | `pip3 install pandas-profiling`  | Quick explarotary data analysis with few codes
-re                | `pip3 install re                 | Regular expression operations
+re                | `pip3 install re`                | Regular expression operations
 
 ## Files and Description ##
 
